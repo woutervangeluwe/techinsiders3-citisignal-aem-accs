@@ -3,7 +3,7 @@
     "default": {
       "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/CM76EeQDrkuB7yDoJ2jwri/graphql",
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/CM76EeQDrkuB7yDoJ2jwri/graphql",
-      "commerce-assets-enabled": true,
+      "commerce-assets-enabled": false,
       "headers": {
         "all": {
           "Store": "citisignal"
