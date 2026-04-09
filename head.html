@@ -57,7 +57,6 @@
 
 <script nonce="aem" src="/scripts/alloy.js"></script>
 
-<script nonce="aem" src="/scripts/styleconfigurations.js"></script>
 <script nonce="aem">
     alloy("configure", {
         defaultConsent: "in",
@@ -70,6 +69,9 @@
         thirdPartyCookiesEnabled: false,
         prehidingStyle: ".personalization-container { opacity: 0 !important }",
     });
+
+  
+<script nonce="aem" src="/scripts/styleconfigurations.js"></script>
 
 window["alloy"]("sendEvent", {
     conversation: {
